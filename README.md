@@ -19,3 +19,6 @@ How to run (on your machine):
 Notes:
 - This is a scaffold to demo on device/web. It uses Firebase web SDK and expects your Firestore collections to exist.
 - For production mobile builds and App Store / Play Store distribution, use EAS builds (expo docs).
+
+go here for the app : https://github.com/lukesaura/congenial-octo-invention
+
