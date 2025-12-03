@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "Campus Sentry",
+    "slug": "expo-municipal-dashboard",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "campussentry",
+    "platforms": ["android", "web"],
+    "sdkVersion": "48.0.0",
+
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+
+    "updates": {
+      "url": "https://u.expo.dev/f33ae4e6-dfe3-4385-8c74-2bf1c0d46a94",
+      "fallbackToCacheTimeout": 0
+    },
+
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+
+    "android": {
+      "package": "com.oneparadoxshrink.campussentry",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+
+    "extra": {
+      "eas": {
+        "projectId": "f33ae4e6-dfe3-4385-8c74-2bf1c0d46a94"
+      }
+    }
+  }
+}
